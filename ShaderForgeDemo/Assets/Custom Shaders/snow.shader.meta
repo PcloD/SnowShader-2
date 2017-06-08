@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db8e8f7cc81370e44ba840ba94414681
+timeCreated: 1496915766
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _BottomTexture: {fileID: 2800000, guid: bbab0a6f7bae9cf42bf057d8ee2755f6, type: 3}
+  - _Diffuse: {fileID: 2800000, guid: b66bceaf0cc0ace4e9bdc92f14bba709, type: 3}
+  - _SnowDiffuse: {fileID: 2800000, guid: 639a83859d0296044b69813c3892d62f, type: 3}
+  - _Snow1: {fileID: 2800000, guid: fcc2c29f63d5bbe45bea7cee69725d86, type: 3}
+  - _SnowNormal: {fileID: 2800000, guid: 0c9e7406cc0485649a63c9a5e8655fbd, type: 3}
+  - _SnowBumpMap: {fileID: 2800000, guid: 6ce2ae9a25a35fd47bcca233466c9e5d, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
